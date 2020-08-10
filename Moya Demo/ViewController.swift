@@ -7,12 +7,25 @@
 //
 
 import UIKit
+import Moya
 
 class ViewController: UIViewController {
 
+    let userProvider = MoyaProvider<DataService>()
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        
+        userProvider.request(.createUser) { (result) in
+            switch result {
+            case .success(let response):
+                print(response.data)
+                let json = try! JSONSerialization.jsonObject(with: response.data, options: [])
+                print(json)
+            case .failure(let error):
+                print(error)
+            }
+        }
     }
 
 
