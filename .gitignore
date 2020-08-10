@@ -1,0 +1,91 @@
+
+Pods/Alamofire/LICENSE
+Pods/Alamofire/README.md
+Pods/Alamofire/Source/AFError.swift
+Pods/Alamofire/Source/Alamofire.swift
+Pods/Alamofire/Source/AlamofireExtended.swift
+Pods/Alamofire/Source/CachedResponseHandler.swift
+Pods/Alamofire/Source/DispatchQueue+Alamofire.swift
+Pods/Alamofire/Source/EventMonitor.swift
+Pods/Alamofire/Source/HTTPHeaders.swift
+Pods/Alamofire/Source/HTTPMethod.swift
+Pods/Alamofire/Source/MultipartFormData.swift
+Pods/Alamofire/Source/MultipartUpload.swift
+Pods/Alamofire/Source/NetworkReachabilityManager.swift
+Pods/Alamofire/Source/Notifications.swift
+Pods/Alamofire/Source/OperationQueue+Alamofire.swift
+Pods/Alamofire/Source/ParameterEncoder.swift
+Pods/Alamofire/Source/ParameterEncoding.swift
+Pods/Alamofire/Source/Protector.swift
+Pods/Alamofire/Source/RedirectHandler.swift
+Pods/Alamofire/Source/Request.swift
+Pods/Alamofire/Source/RequestInterceptor.swift
+Pods/Alamofire/Source/RequestTaskMap.swift
+Pods/Alamofire/Source/Response.swift
+Pods/Alamofire/Source/ResponseSerialization.swift
+Pods/Alamofire/Source/Result+Alamofire.swift
+Pods/Alamofire/Source/RetryPolicy.swift
+Pods/Alamofire/Source/ServerTrustEvaluation.swift
+Pods/Alamofire/Source/Session.swift
+Pods/Alamofire/Source/SessionDelegate.swift
+Pods/Alamofire/Source/URLConvertible+URLRequestConvertible.swift
+Pods/Alamofire/Source/URLEncodedFormEncoder.swift
+Pods/Alamofire/Source/URLRequest+Alamofire.swift
+Pods/Alamofire/Source/URLSessionConfiguration+Alamofire.swift
+Pods/Alamofire/Source/Validation.swift
+Pods/Manifest.lock
+Pods/Moya/License.md
+Pods/Moya/Readme.md
+Pods/Moya/Sources/Moya/AnyEncodable.swift
+Pods/Moya/Sources/Moya/Cancellable.swift
+Pods/Moya/Sources/Moya/Endpoint.swift
+Pods/Moya/Sources/Moya/Image.swift
+Pods/Moya/Sources/Moya/Moya+Alamofire.swift
+Pods/Moya/Sources/Moya/MoyaError.swift
+Pods/Moya/Sources/Moya/MoyaProvider+Defaults.swift
+Pods/Moya/Sources/Moya/MoyaProvider+Internal.swift
+Pods/Moya/Sources/Moya/MoyaProvider.swift
+Pods/Moya/Sources/Moya/MultipartFormData.swift
+Pods/Moya/Sources/Moya/MultiTarget.swift
+Pods/Moya/Sources/Moya/Plugin.swift
+Pods/Moya/Sources/Moya/Plugins/AccessTokenPlugin.swift
+Pods/Moya/Sources/Moya/Plugins/CredentialsPlugin.swift
+Pods/Moya/Sources/Moya/Plugins/NetworkActivityPlugin.swift
+Pods/Moya/Sources/Moya/Plugins/NetworkLoggerPlugin.swift
+Pods/Moya/Sources/Moya/RequestTypeWrapper.swift
+Pods/Moya/Sources/Moya/Response.swift
+Pods/Moya/Sources/Moya/TargetType.swift
+Pods/Moya/Sources/Moya/Task.swift
+Pods/Moya/Sources/Moya/URL+Moya.swift
+Pods/Moya/Sources/Moya/URLRequest+Encoding.swift
+Pods/Moya/Sources/Moya/ValidationType.swift
+Pods/Pods.xcodeproj/project.pbxproj
+Pods/Pods.xcodeproj/xcuserdata/andrew11us.xcuserdatad/xcschemes/Alamofire.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/andrew11us.xcuserdatad/xcschemes/Moya.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/andrew11us.xcuserdatad/xcschemes/Pods-Moya Demo.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/andrew11us.xcuserdatad/xcschemes/xcschememanagement.plist
+Pods/Target Support Files/Alamofire/Alamofire-dummy.m
+Pods/Target Support Files/Alamofire/Alamofire-Info.plist
+Pods/Target Support Files/Alamofire/Alamofire-prefix.pch
+Pods/Target Support Files/Alamofire/Alamofire-umbrella.h
+Pods/Target Support Files/Alamofire/Alamofire.modulemap
+Pods/Target Support Files/Alamofire/Alamofire.xcconfig
+Pods/Target Support Files/Moya/Moya-dummy.m
+Pods/Target Support Files/Moya/Moya-Info.plist
+Pods/Target Support Files/Moya/Moya-prefix.pch
+Pods/Target Support Files/Moya/Moya-umbrella.h
+Pods/Target Support Files/Moya/Moya.modulemap
+Pods/Target Support Files/Moya/Moya.xcconfig
+Pods/Target Support Files/Pods-Moya Demo/Pods-Moya Demo-acknowledgements.markdown
+Pods/Target Support Files/Pods-Moya Demo/Pods-Moya Demo-acknowledgements.plist
+Pods/Target Support Files/Pods-Moya Demo/Pods-Moya Demo-dummy.m
+Pods/Target Support Files/Pods-Moya Demo/Pods-Moya Demo-frameworks-Debug-input-files.xcfilelist
+Pods/Target Support Files/Pods-Moya Demo/Pods-Moya Demo-frameworks-Debug-output-files.xcfilelist
+Pods/Target Support Files/Pods-Moya Demo/Pods-Moya Demo-frameworks-Release-input-files.xcfilelist
+Pods/Target Support Files/Pods-Moya Demo/Pods-Moya Demo-frameworks-Release-output-files.xcfilelist
+Pods/Target Support Files/Pods-Moya Demo/Pods-Moya Demo-frameworks.sh
+Pods/Target Support Files/Pods-Moya Demo/Pods-Moya Demo-Info.plist
+Pods/Target Support Files/Pods-Moya Demo/Pods-Moya Demo-umbrella.h
+Pods/Target Support Files/Pods-Moya Demo/Pods-Moya Demo.debug.xcconfig
+Pods/Target Support Files/Pods-Moya Demo/Pods-Moya Demo.modulemap
+Pods/Target Support Files/Pods-Moya Demo/Pods-Moya Demo.release.xcconfig
