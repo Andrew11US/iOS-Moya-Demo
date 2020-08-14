@@ -10,7 +10,7 @@ import UIKit
 import Moya
 
 class ViewController: UIViewController {
-
+    
     let userProvider = MoyaProvider<DataService>()
     
     override func viewDidLoad() {
@@ -27,7 +27,5 @@ class ViewController: UIViewController {
             }
         }
     }
-
-
 }
 

@@ -14,6 +14,7 @@ enum DataService {
     case deleteUser
 }
 
+// MARK: - DataService extension
 extension DataService: TargetType {
     var baseURL: URL {
         return URL(string: "https://jsonplaceholder.typicode.com")!
@@ -26,11 +27,11 @@ extension DataService: TargetType {
         }
     }
     
-        var method: Moya.Method {
+    var method: Moya.Method {
         switch self {
         case .createUser, .deleteUser:
             return .post
-            }
+        }
     }
     
     var sampleData: Data {
